@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect x="0" y="0" width="512" height="512" rx="100" fill="#2196f3"/>
+  <circle cx="360" cy="150" r="70" fill="#ffeb3b"/>
+  <line x1="450.0" y1="150.0" x2="480.0" y2="150.0" stroke="#ffeb3b" stroke-width="15" stroke-linecap="round"/>
+  <line x1="423.6396103067893" y1="213.63961030678928" x2="444.8528137423857" y2="234.8528137423857" stroke="#ffeb3b" stroke-width="15" stroke-linecap="round"/>
+  <line x1="360.0" y1="240.0" x2="360.0" y2="270.0" stroke="#ffeb3b" stroke-width="15" stroke-linecap="round"/>
+  <line x1="296.3603896932107" y1="213.63961030678928" x2="275.1471862576143" y2="234.8528137423857" stroke="#ffeb3b" stroke-width="15" stroke-linecap="round"/>
+  <line x1="270.0" y1="150.0" x2="240.0" y2="150.00000000000003" stroke="#ffeb3b" stroke-width="15" stroke-linecap="round"/>
+  <line x1="296.3603896932107" y1="86.36038969321072" x2="275.1471862576143" y2="65.14718625761431" stroke="#ffeb3b" stroke-width="15" stroke-linecap="round"/>
+  <line x1="360.0" y1="60.0" x2="360.0" y2="30.0" stroke="#ffeb3b" stroke-width="15" stroke-linecap="round"/>
+  <line x1="423.6396103067893" y1="86.3603896932107" x2="444.8528137423857" y2="65.14718625761428" stroke="#ffeb3b" stroke-width="15" stroke-linecap="round"/>
+  <ellipse cx="260" cy="260" rx="140" ry="90" fill="white"/>
+  <circle cx="180" cy="240" r="70" fill="white"/>
+  <circle cx="300" cy="230" r="80" fill="white"/>
+  <path d="M260 380 C240 420, 280 420, 260 460 C240 420, 280 420, 260 380 Z" fill="#1565c0"/>
+</svg>
